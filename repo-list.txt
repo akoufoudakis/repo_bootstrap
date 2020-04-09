@@ -1,3 +1,0 @@
-lienzo-core
-lienzo-test
-drools
